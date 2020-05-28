@@ -1,0 +1,37 @@
+2020-05-27 19:42:24 (Thread 1) BlockTemplate Error: Failed to parse block
+2020-05-27 19:43:46 (Thread 1) BlockTemplate Error: Failed to parse block
+2020-05-27 19:43:54 (Thread 2) BlockTemplate Error: Failed to parse block
+2020-05-27 19:43:54 (Thread 1) BlockTemplate Error: Failed to parse block
+2020-05-27 19:44:00 (Thread 1) Invalid cryptonight algorithm: rx/0
+2020-05-27 19:44:00 (Thread 4) Invalid cryptonight algorithm: rx/0
+2020-05-27 19:44:00 (Thread 2) Invalid cryptonight algorithm: rx/0
+2020-05-27 19:44:01 (Thread 3) Invalid cryptonight algorithm: rx/0
+2020-05-27 19:44:00 (Thread 6) Invalid cryptonight algorithm: rx/0
+2020-05-27 19:44:00 (Thread 8) Invalid cryptonight algorithm: rx/0
+2020-05-27 19:44:00 (Thread 7) Invalid cryptonight algorithm: rx/0
+2020-05-27 19:44:00 (Thread 5) Invalid cryptonight algorithm: rx/0
+2020-05-27 19:44:16 (Thread 1) Invalid cryptonight algorithm: random
+2020-05-27 19:44:16 (Thread 2) Invalid cryptonight algorithm: random
+2020-05-27 19:44:16 (Thread 3) Invalid cryptonight algorithm: random
+2020-05-27 19:44:16 (Thread 7) Invalid cryptonight algorithm: random
+2020-05-27 19:44:16 (Thread 4) Invalid cryptonight algorithm: random
+2020-05-27 19:44:16 (Thread 8) Invalid cryptonight algorithm: random
+2020-05-27 19:44:16 (Thread 6) Invalid cryptonight algorithm: random
+2020-05-27 19:44:16 (Thread 5) Invalid cryptonight algorithm: random
+2020-05-27 19:44:32 (Thread 2) BlockTemplate Error: Failed to parse block
+2020-05-28 12:36:48 (Thread 3) BlockTemplate Error: Failed to parse block
+2020-05-28 12:36:48 (Thread 2) BlockTemplate Error: Failed to parse block
+2020-05-28 12:36:48 (Thread 5) BlockTemplate Error: Failed to parse block
+2020-05-28 12:36:48 (Thread 4) BlockTemplate Error: Failed to parse block
+2020-05-28 12:36:59 (Thread 3) BlockTemplate Error: Failed to parse block
+2020-05-28 12:36:59 (Thread 2) BlockTemplate Error: Failed to parse block
+2020-05-28 12:36:59 (Thread 5) BlockTemplate Error: Failed to parse block
+2020-05-28 12:36:59 (Thread 4) BlockTemplate Error: Failed to parse block
+2020-05-28 12:37:24 (Thread 3) BlockTemplate Error: Failed to parse block
+2020-05-28 12:37:24 (Thread 2) BlockTemplate Error: Failed to parse block
+2020-05-28 12:37:24 (Thread 1) BlockTemplate Error: Failed to parse block
+2020-05-28 12:37:24 (Thread 5) BlockTemplate Error: Failed to parse block
+2020-05-28 12:37:24 (Thread 4) BlockTemplate Error: Failed to parse block
+2020-05-28 13:08:29 (Thread 1) BlockTemplate Error: Failed to parse block
+2020-05-28 13:08:30 (Thread 1) BlockTemplate Error: Failed to parse block
+2020-05-28 13:09:34 (Thread 3) BlockTemplate Error: Failed to parse block
